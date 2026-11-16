@@ -3,6 +3,7 @@
 [![Security: Web](https://img.shields.io/badge/Focus-Web%20Security-red.svg)](https://portswigger.net/burp)
 [![Module: G-SEC-200](https://img.shields.io/badge/Epitech-G--SEC--200-blue.svg)](https://www.epitech.eu/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Academic Year: 2024-2025](https://img.shields.io/badge/Academic%20Year-2024--2025%20(Tek1)-blueviolet.svg)](#)
 
 > **Practical laboratory on web application penetration testing using PortSwigger's Burp Suite**, auditing OWASP Top 10 security vulnerabilities.
 
